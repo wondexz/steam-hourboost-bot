@@ -16,3 +16,4 @@
 - `InvalidPassword` - Hesabın şifresi yanlış.
 - `Invalid activation code` - Guard'a girilen kod geçersiz.
 - `LoggedInElsewhere` - Hourboost sistemi açıkken oyuna girerseniz veya oyundayken hourboost sistemini açmaya çalışırsanız bu hatayı alırsınız.
+- `RateLimitExceeded` - Bir hesaba bir çok kez giriş yapılmaya çalışıp girilemezse bu hatayı verir bir süre sonra deneyiniz.
