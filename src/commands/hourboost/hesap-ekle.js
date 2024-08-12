@@ -120,8 +120,8 @@ module.exports = {
                     "value": "1517290"
                 },
                 {
-                    "name": "Farklı bir oyun",
-                    "value": "0"
+                    "name": "7 Days to Die",
+                    "value": "251570"
                 }
             ]
         }
