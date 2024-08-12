@@ -49,7 +49,7 @@ module.exports = {
                             .replaceAll('1238840', 'Battlefield 1')
                             .replaceAll('1238810', 'Battlefield V')
                             .replaceAll('1517290', 'Battlefield 2042')
-                            .replaceAll('0', 'Farklı bir oyun.')
+                            .replaceAll('251570', '7 Days to Die')
                             }](https://steamcommunity.com/app/${db.get(interaction.user.id).game})`
                     }
                 )
