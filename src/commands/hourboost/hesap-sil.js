@@ -26,6 +26,7 @@ module.exports = {
 
         const data = db.get(interaction.user.id)
         deleteAccount(data.username)
+        db.delete(interaction.user.id)
 
         interaction.reply({ embeds: [embed] });
     }
